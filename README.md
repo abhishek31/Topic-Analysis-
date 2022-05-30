@@ -1,5 +1,6 @@
 # Topic-Analysis-
-Topic Analysis - predict topic category of a comment scraped from an online platform
+Topic Analysis - predict topic category of a comment scraped from an online platform  
+
 Problem Setup      
 
 The data of this project is scraped from an online platform, where people leave comments related to 40 categories. For data confidentiality, the category names are replaced with numerical labels.   
